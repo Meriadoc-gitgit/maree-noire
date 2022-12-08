@@ -6,7 +6,7 @@ Groupe : 7 <br>
 ## Prologue
 Ce projet vise à réaliser une <strong>simulation simple de la pêche et du phénomène de la Marée noire</strong>, qui consiste principalement à faire comprendre mieux l’impact sérieux de ce genre de catastrophe ayant lieu fréquemment dans la mer. <br>
 La simulation aura lieu sur un <strong>Terrain</strong> de dimension 20x20, dont les <strong>Ressources</strong> sont : algues, coraux et rochers; les <strong>Agents</strong> viennent de 2 types : Animaux et Bateaux. Nous allons prendre en argument 2 types d’animaux : les oiseaux sur mer et les poissons, dont chaque type d’animal recevra différent chaine indiquant leur race. Pour les bateaux, on suppose 2 types : bateaux de pêches et les conteneurs transportant l’essence dans la mer. <br><br>
-Ce projet est réalisé dans le cadre du projet de fin semestre, contribuant 10% de la note totale de l'UE 2IN002 - Introduction à la Programmation Orientée Objet que propose Sorbonne Université durant le premier semestre en L2 Informatique. <br>
+Tout est réalisé dans le cadre du projet de fin semestre, contribuant 10% de la note totale de l'UE 2IN002 - Introduction à la Programmation Orientée Objet que propose Sorbonne Université durant le premier semestre en L2 Informatique. <br>
 Vous pouvez retrouvez ci-dessous la liste des methodes accessibles à partir des classes définies dans ce projet (non compris les accesseurs aux variables **protected** et **private**). 
 ## Agent : les animaux
 ### interface Animaux
