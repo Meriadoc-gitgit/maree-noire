@@ -1,0 +1,307 @@
+|------------------------------------------------------------|
+| *                   Cor *    Alg *             Roc *       |
+|    *          Alg       *              *                   |
+|   Roc          *  O Alg    *           @     *  *  *       |
+|    *     *     *              *        *  O     *          |
+|          *        *        *  *                 *    Alg   |
+| *                                                  *     * |
+|          *        O              *  *                      |
+| O              *     *                       *        *    |
+| *                                *              *  *       |
+|       * Cor                      *     *        *        * |
+|          *        O        * Alg   Roc    *     *  *       |
+| O        O           *  *  *  *     *              *  *    |
+|             *           *        *             Alg    *    |
+|                *              *                       *  * |
+|             *  *           *           *     *       Cor   |
+|          * Cor    *                                        |
+| *    Cor                   *     *  O  *             Cor * |
+|               Roc                *                         |
+|             *           *                 *           *    |
+| *                          *           *  *  O        *    |
+|------------------------------------------------------------|
+
+Nombre de Poissons : 10
+Nombre d'Oiseaux : 100
+
+B : Fishing Boat + Tank
+XXX : Tank
+F : Fishing Boat
+@ : Poissons + Oiseaux
+* : Oiseaux
+O : Poissons
+Alg : Algue
+Cor : Coraux
+Roc : Rocher
+
+|------------------------------------------------------------|
+| *                   Cor *    Alg *             Roc *       |
+|    *          Alg       *              *                   |
+|   Roc          *  O Alg    *        F  @     *  *  *       |
+|    *     *    XXX             *        *  O     *          |
+|          *        *        *  *                 *    Alg   |
+| *                             F                    *     * |
+|          *        O    XXX       *  *                      |
+| O              *     *                       *        *    |
+| *                                *  F           *  *       |
+|       * Cor                      *     *        *        * |
+|          *        O        * Alg   Roc    *     *  *       |
+| O        O           *  *  *  *     *              *  *    |
+|             *           F        *             Alg    *    |
+|                *              *                       *  * |
+|             *  *           *           * XXX *       Cor   |
+|          * CorXXX *                                        |
+| *    Cor                   *     *  O  *             Cor * |
+|               Roc                *                         |
+|             *           *                 *           *    |
+| *                          *           *  *  O        *    |
+|------------------------------------------------------------|
+
+Nombre de Poissons : 10
+Nombre d'Oiseaux : 100
+
+B : Fishing Boat + Tank
+XXX : Tank
+F : Fishing Boat
+@ : Poissons + Oiseaux
+* : Oiseaux
+O : Poissons
+Alg : Algue
+Cor : Coraux
+Roc : Rocher
+
+
+|------------------------------------------------------------|
+| *                   Cor *    Alg *             Roc *       |
+|    *  O       Alg       *              *                   |
+|   Roc          *    Alg    *        F  *     *  *  *       |
+|    *     *    XXX             *        *        *          |
+|          *        *        *  *                 @     O    |
+| *                 O           F                    *     * |
+|          *             XXX       *  *                      |
+|                *     *     O                 *        *    |
+| *                                *  F           *  *       |
+|       * Cor       O              *     *        *        * |
+|          *           O     * Alg   Roc    *     *  *       |
+|                      *  *  *  *     *              *  *    |
+|             *           F        *             Alg    *    |
+|                *              *                       *  * |
+|             *  *           *           * XXX *       Cor   |
+|    O     * CorXXX *                                        |
+| *    Cor                   *     *     *             Cor * |
+|          O    Roc             O  *                         |
+|             *           *                 *           *    |
+| *                          *           *  *           *    |
+|------------------------------------------------------------|
+
+Nombre de Poissons : 20
+Nombre d'Oiseaux : 100
+
+B : Fishing Boat + Tank
+XXX : Tank
+F : Fishing Boat
+@ : Poissons + Oiseaux
+* : Oiseaux
+O : Poissons
+Alg : Algue
+Cor : Coraux
+Roc : Rocher
+
+========================TOUR no.0========================
+Situation :
+========================TOUR no.1========================
+Situation :
+Le navire TANK no.2 - Capacite : 121.0, Position : [15, 5] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement n'a pas d'effets sur les animaux mais a detruit une grande espace maritime !
+TANK no.2 - Capacite : 121.0, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.2========================
+Situation :
+Le navire TANK no.2 - Capacite : 60.5, Position : [2, 12] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement n'a pas d'effets sur les animaux mais a detruit une grande espace maritime !
+TANK no.2 - Capacite : 60.5, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.3========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.4========================
+Situation :
+Le navire TANK no.4 - Capacite : 133.0, Position : [3, 5] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement a cause la mort d'aucun poisson, 2 oiseaux sur mer et a detruit une grande espace maritime !
+TANK no.4 - Capacite : 133.0, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.5========================
+Situation :
+Fishing Boat no.2 - Capacite : 42, Position : [7, 16] a peche 2 poissons
+Fishing Boat no.3 - Capacite : 159, Position : [1, 19] a peche 2 poissons
+Fishing Boat no.4 - Capacite : 115, Position : [3, 14] a peche 4 poissons
+========================TOUR no.6========================
+Situation :
+Fishing Boat no.1 - Capacite : 128, Position : [18, 14] a peche 3 poissons
+Fishing Boat no.2 - Capacite : 40, Position : [7, 16] a peche 2 poissons
+Fishing Boat no.3 - Capacite : 157, Position : [1, 19] a peche 1 poissons
+Fishing Boat no.4 - Capacite : 111, Position : [3, 14] a peche 2 poissons
+Le navire TANK no.3 - Capacite : 43.0, Position : [6, 8] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement a cause la mort de 3 poissons, pas d'oiseaux sur mer et a detruit une grande espace maritime !
+TANK no.3 - Capacite : 43.0, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.7========================
+Situation :
+Fishing Boat no.1 - Capacite : 125, Position : [18, 14] a peche 3 poissons
+Fishing Boat no.3 - Capacite : 156, Position : [1, 19] a peche 2 poissons
+Fishing Boat no.4 - Capacite : 109, Position : [3, 14] a peche 1 poissons
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.8========================
+Situation :
+Fishing Boat no.1 - Capacite : 122, Position : [18, 14] a peche 3 poissons
+========================TOUR no.9========================
+Situation :
+Fishing Boat no.1 - Capacite : 119, Position : [18, 14] a peche 2 poissons
+Fishing Boat no.2 - Capacite : 38, Position : [6, 4] a peche 1 poissons
+Fishing Boat no.3 - Capacite : 154, Position : [13, 9] a peche 3 poissons
+Fishing Boat no.4 - Capacite : 108, Position : [19, 15] a peche 3 poissons
+Le navire TANK no.2 - Capacite : 30.25, Position : [9, 17] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement a cause la mort de 2 poissons, pas d'oiseaux sur mer et a detruit une grande espace maritime !
+TANK no.2 - Capacite : 30.25, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.10========================
+Situation :
+Fishing Boat no.2 - Capacite : 37, Position : [6, 4] a peche 2 poissons
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.11========================
+Situation :
+Fishing Boat no.1 - Capacite : 117, Position : [10, 11] a peche 2 poissons
+Fishing Boat no.2 - Capacite : 35, Position : [6, 4] a peche 4 poissons
+Fishing Boat no.3 - Capacite : 151, Position : [3, 18] a peche 4 poissons
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.12========================
+Situation :
+Fishing Boat no.1 - Capacite : 115, Position : [10, 11] a peche 6 poissons
+Fishing Boat no.3 - Capacite : 147, Position : [3, 18] a peche 4 poissons
+Fishing Boat no.4 - Capacite : 105, Position : [8, 16] a peche 6 poissons
+========================TOUR no.13========================
+Situation :
+Fishing Boat no.1 - Capacite : 109, Position : [10, 11] a peche 10 poissons
+Fishing Boat no.2 - Capacite : 31, Position : [8, 11] a peche 4 poissons
+Fishing Boat no.3 - Capacite : 143, Position : [3, 18] a peche 8 poissons
+Fishing Boat no.4 - Capacite : 99, Position : [8, 16] a peche 16 poissons
+========================TOUR no.14========================
+Situation :
+Fishing Boat no.1 - Capacite : 99, Position : [10, 11] a peche 14 poissons
+Fishing Boat no.2 - Capacite : 27, Position : [8, 11] a peche 28 poissons
+Fishing Boat no.3 - Capacite : 135, Position : [3, 18] a peche 16 poissons
+Fishing Boat no.4 - Capacite : 83, Position : [8, 16] a peche 12 poissons
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.15========================
+Situation :
+Fishing Boat no.1 - Capacite : 85, Position : [10, 11] a peche 44 poissons
+Fishing Boat no.3 - Capacite : 119, Position : [3, 18] a peche 42 poissons
+Fishing Boat no.4 - Capacite : 71, Position : [8, 16] a peche 36 poissons
+Le navire TANK no.4 - Capacite : 66.5, Position : [17, 18] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement a cause la mort de 34 poissons, pas d'oiseaux sur mer et a detruit une grande espace maritime !
+TANK no.4 - Capacite : 66.5, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.16========================
+Situation :
+Fishing Boat no.1 - Capacite : 41, Position : [10, 11] a peche 76 poissons
+Fishing Boat no.3 - Capacite : 77, Position : [3, 18] a peche 54 poissons
+Fishing Boat no.4 - Capacite : 35, Position : [8, 16] a peche 54 poissons
+========================TOUR no.17========================
+Situation :
+Fishing Boat no.3 - Capacite : 23, Position : [3, 18] a peche 52 poissons
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.18========================
+Situation :
+Le navire TANK no.4 - Capacite : 33.25, Position : [3, 19] a eu un déversement d'hydrocarbures pendant son transit!
+Ce deversement a cause la mort de 56 poissons, pas d'oiseaux sur mer et a detruit une grande espace maritime !
+TANK no.4 - Capacite : 33.25, Position : [0, 0] est ramene urgemment au port par l'equipe securite
+========================TOUR no.19========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.20========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.21========================
+Situation :
+========================TOUR no.22========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.23========================
+Situation :
+========================TOUR no.24========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.25========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.26========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.27========================
+Situation :
+========================TOUR no.28========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+========================TOUR no.29========================
+Situation :
+La capacite de ce tank est en dessous de sa capacite minimal
+Tout va bien
+
+|------------------------------------------------------------|
+| @  O  O  O  O  O  O  O  @  O  O  @  O  O  O  O  O  @  O  O |
+| O  @  O  O  O  O  O  F  @  O  O  O  O  @  O  O  O XXX O  O |
+| O  O  O  O  O  @  O  O  O  @  O  O  O  @  O  @  @  @  O  O |
+| O  @  O  F  O  O  O  O  O  O  @  O  O  @  O  O  @  O  O  O |
+| O  O  O  @  O  O  @  O  O  @  @  O  O  O  O  O  @  O  O  O |
+| @  O  O  O  O  O XXX O  O  O  O  O  O  O  O  O  O  @  O  @ |
+| O  O  O  @  O  O  O  O  O  O  O  @  @  O  O  O  O  O  O  O |
+| O  O  O  O  O  @  O  @  O  O  O  O  O  O  O  @  O  O  @  O |
+| @  O  F  O  O  O  O  O  O  O  O  @  O  O  O  O  @  @  O  O |
+| O  O  @  O  O  O  O  O  O  O  O  @  O  @  O  O  @  O  O  @ |
+| O  O  O  @  O  O  O  O  O  @  O  O  O  O  @  O  @  @  O  O |
+| O  O  O  O  O  O  O  @  @  @  @  O  @  O  O  O  O  @  @  O |
+| O  O  O  O  @  F  O  O  @  O  O  @  O  O  O  O  O  O  @  O |
+| O  O  O  O  O  @  O  O  O  O  @  O  O  O  O  O  O  O  @  @ |
+| O  O  O  O  @  @  O  O  O  @  O  O  O  @ XXX @  O  O  O  O |
+| O  O  O  @  O  O  @  O  O  O  O  O  O  O  O  O  O  O  O  O |
+| @  O  O  O  O  O  O  O  O  @  O  @  O  @  O  O  O  O  O  @ |
+| O  O  O  O  O  O  O  O  O  O  O  @  O  O  O  O  O  O  O  O |
+| O  O  O  O  @  O  O  O  @  O XXX O  O  O  @  O  O  O  @  O |
+| @  O  O  O  O  O  O  O  O  @  O  O  O  @  @  O  O  O  @  O |
+|------------------------------------------------------------|
+
+Nombre de Poissons : 1408768
+Nombre d'Oiseaux : 98
+
+B : Fishing Boat + Tank
+XXX : Tank
+F : Fishing Boat
+@ : Poissons + Oiseaux
+* : Oiseaux
+O : Poissons
+Alg : Algue
+Cor : Coraux
+Roc : Rocher
+
+799 animaux a mort apres 30 jours dans l'espace de dimension [20,20]
+528 poissons peches apres 30 jours dans l'espace de dimension [20,20]
