@@ -9,7 +9,7 @@ La simulation aura lieu sur un <strong>Terrain</strong> de dimension 20x20, dont
 Ce projet est réalisé dans le cadre du projet de fin semestre, contribuant 10% de la note totale de l'UE 2IN002 - Introduction à la Programmation Orientée Objet que propose Sorbonne Université durant le premier semestre en L2 Informatique. <br>
 Vous pouvez retrouvez ci-dessous la liste des methodes accessibles à partir des classes définies dans ce projet (non compris les accesseurs aux variables **protected** et **private**). 
 ## UML simple
-> Simulation not included
+> Simulation not included <br>
 ![](UML.png)
 ## Agent : les animaux
 ### interface Animaux
