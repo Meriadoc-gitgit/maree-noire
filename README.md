@@ -10,7 +10,7 @@ Ce projet est réalisé dans le cadre du projet de fin semestre, contribuant 10%
 Vous pouvez retrouvez ci-dessous la liste des methodes accessibles à partir des classes définies dans ce projet (non compris les accesseurs aux variables **protected** et **private**). 
 ## UML simple
 > Simulation not included
-![](UML.png)
+<p align="center"><img src="UML.png"></p>
 ## Agent : les animaux
 ### interface Animaux
 ```
@@ -165,4 +165,4 @@ Réaliser un graphe montrant le nombre d'animaux affecté lors du catastrophe de
 ## Remerciement
 Je tiens à exprimer mes sincères remerciements à mes professeurs, notamment les chargés du groupe 7 Informatique pour des lecons de Programmation Orienté Objet qui m'intéressent vraiment et qui m'ont donné une telle motivation depuis le début des cours. <br>
 Et merci beaucoup à vous tous à avoir jeté un coup d'oeil sur ce projet simple de simulation maritime :) <br>
-<p align="center"><img src="IMG_4987.JPG">
+<p align="center"><img src="IMG_4987.JPG"></p>
