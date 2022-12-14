@@ -165,5 +165,4 @@ Réaliser un graphe montrant le nombre d'animaux affecté lors du catastrophe de
 ## Remerciement
 Je tiens à exprimer mes sincères remerciements à mes professeurs, notamment les chargés du groupe 7 Informatique pour des lecons de Programmation Orienté Objet qui m'intéressent vraiment et qui m'ont donné une telle motivation depuis le début des cours. <br>
 Et merci beaucoup à vous tous à avoir jeté un coup d'oeil sur ce projet simple de simulation maritime :) <br>
-<p align="center">
-![](IMG_4987.JPG)
+<p align="center"><img src="IMG_4987.JPG">
