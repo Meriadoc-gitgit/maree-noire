@@ -11,6 +11,7 @@ Vous pouvez retrouvez ci-dessous la liste des methodes accessibles à partir des
 ## UML simple
 > Simulation not included
 <p align="center"><img src="UML.png"></p>
+
 ## Agent : les animaux
 ### interface Animaux
 ```
